@@ -1,1 +1,0 @@
-# Contest2-JS-TS
